@@ -19,7 +19,7 @@ struct CalcStatus {
 
 
 int executeArithmeticOperation(CalcStatus* status) {
-	
+	// todo arithemtic operations and assign into status->currentOutcome a number
 }
 double factorial(double input) {
 	int converted_input = (int)input;

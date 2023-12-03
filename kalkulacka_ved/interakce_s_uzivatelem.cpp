@@ -125,7 +125,7 @@ double getInputNumber(char name) {
 }
 
 void arithmeticOperation(CalcStatus* status) {
-
+	// TODO arithmetic operation question asking what operation we use and then calling arithmetic operation in operace.h
 }
 
 char askIfMemory() {
